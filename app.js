@@ -13,7 +13,7 @@ app.post('/api/chat', async (req, res) => {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer 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'
+      'Authorization': 'Bearer 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'
     },
     body: JSON.stringify({
       prompt: userMessage,
